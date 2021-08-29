@@ -21,8 +21,8 @@ p {
    transition: all 0.4s ease;
 }
 
-.header-ul {
-   margin-left: 374px;
+.navigation {
+   margin-left: auto;
 }
 
 .header-li a {
